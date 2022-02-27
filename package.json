@@ -1,0 +1,17 @@
+{
+  "name": "moo",
+  "version": "1.0.0",
+  "description": "Moo moo moo moo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^6.0.0"
+  }
+}
